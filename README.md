@@ -5,7 +5,7 @@ IT support and system administration professional with a background in informati
 - **Current work:** Help Desk & System Administrator at Viion, since January 2025.
 - **Focus:** Windows Server, Active Directory, network troubleshooting, security monitoring and automation.
 - **Development:** C#, JavaScript/TypeScript, React, Node.js and Python.
-- **Based in:** Sherouk, Egypt.
+- **Based in:** Egypt.
 - **Open to:** IT support, junior system administration, SOC/security and junior development opportunities.
 
 ## Selected work
